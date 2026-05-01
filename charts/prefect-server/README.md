@@ -207,8 +207,8 @@ the HorizontalPodAutoscaler.
 
 | Repository | Name | Version |
 |------------|------|---------|
-| https://charts.bitnami.com/bitnami | common | 2.31.3 |
-| https://charts.bitnami.com/bitnami | postgresql | 12.12.10 |
+| https://charts.bitnami.com/bitnami | common | 2.38.0 |
+| https://charts.bitnami.com/bitnami | postgresql | 18.6.2 |
 
 ## Values
 
